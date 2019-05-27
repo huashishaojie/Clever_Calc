@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file alias="ui/background.jpg">ui/background.jpg</file>
+<file alias="src/curosr/eraser.png">src/curosr/eraser.png</file>
+</qresource>
+</RCC>
